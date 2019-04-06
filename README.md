@@ -9,5 +9,6 @@ Leveraging existing open source software tools for simulating and even controlli
 ## Project Team
 
 Principal Investigator: [Michele Amoretti](https://scholar.google.it/citations?user=-1lLMkMAAAAJ&hl=it)
+
 Developers: 
 - Domenico Barretta (M. Sc. candidate)
