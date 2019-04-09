@@ -2,7 +2,9 @@
 
 The QSIP project focuses on the implementation of quantum-based cryptographic schemes that have been proven to be correct and robust, but not yet implemented in software, as suitable hardware has been released only recently. 
 
-For example, QSIP will implement the set of protocols proposed by Unnikrishnan et al. ([arXiv:1811.04729](https://arxiv.org/abs/1811.04729)) to guarantee the anonymity of two parties, the sender and the receiver, when they wish to transmit a message through the network.
+For example, the QSIP team is working on the implementation of the set of protocols proposed by Unnikrishnan et al. ([arXiv:1811.04729](https://arxiv.org/abs/1811.04729)) to guarantee the anonymity of two parties, the sender and the receiver, when they wish to transmit a message through the network.
+
+Repository: https://github.com/qis-unipr/qsip-practical-anonimity
 
 Leveraging existing open source software tools for simulating and even controlling real quantum devices, such as SimulaQron, ProjectQ and Qiskit, QSIP will implement protocol stacks and demonstrative applications.
 
