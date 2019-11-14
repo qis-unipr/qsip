@@ -11,6 +11,6 @@ Leveraging existing open source software tools for simulating and even controlli
 
 Principal Investigator: [Michele Amoretti](https://scholar.google.it/citations?user=-1lLMkMAAAAJ&hl=it)
 
-Developers: 
+Developers:
+- Davide Ferrari (PhD Student)
 - Domenico Barretta
-- Mattia Pizzoni
