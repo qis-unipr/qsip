@@ -13,4 +13,6 @@ Principal Investigator: [Michele Amoretti](https://scholar.google.it/citations?u
 
 Developers:
 - Davide Ferrari (PhD Student)
-- Domenico Barretta
+
+Former Developers:
+- Domenico Barretta (MSc Student)
